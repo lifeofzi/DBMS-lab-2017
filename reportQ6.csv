@@ -1,0 +1,119 @@
+Department ID ,Manager Name,Employee Name,Salary
+20,Michael Hartstein,Pat Fay,6000
+----------------------------,-------------------------------,--------------------------,----------
+ ,Total Salary of 20 is : , 6000
+----------------------------,-------------------------------,---------------------------,-----------------
+30,Steven KiNg,Alberto Errazuriz,16081
+30,Steven KiNg,Karen Partners,18091
+30,Steven KiNg,John Russell,18761
+30,Steven KiNg,Kevin Mourgos,11103
+30,Steven KiNg,Shanta Vollman,12443
+30,Steven KiNg,Payam Kaufling,15123
+30,Steven KiNg,Adam Fripp,15698
+30,Steven KiNg,Matthew Weiss,15315
+30,Steven KiNg,Den Raphaely,14741
+30,Steven KiNg,Lex De Haan,10023
+30,Steven KiNg,Neena Kochhar,1000
+30,Neena Kochhar,Shelley Higgins,12008
+30,Neena Kochhar,Hermann Baer,10000
+30,Neena Kochhar,Susan Mavris,6500
+30,Neena Kochhar,Jennifer Whalen,4400
+30,Neena Kochhar,Nancy Greenberg,13208
+30,Alexander Hunold,Diana Lorentz,4200
+30,Alexander Hunold,Valli Pataballa,4800
+30,Alexander Hunold,David Austin,4800
+30,Alexander Hunold,Bruce Ernst,6000
+30,Den Raphaely,Karen Colmenares,2500
+30,Den Raphaely,Guy Himuro,2600
+30,Den Raphaely,Sigal Tobias,2800
+30,Den Raphaely,Shelli Baida,2900
+30,Den Raphaely,Alexander Khoo,3100
+30,Steven KiNg,Michael Hartstein,16591
+30,Steven KiNg,Eleni Zlotkey,14071
+----------------------------,-------------------------------,--------------------------,----------
+ ,Total Salary of 30 is : , 258857
+----------------------------,-------------------------------,---------------------------,-----------------
+50,Matthew Weiss,Martha Sullivan,3750
+50,Matthew Weiss,Jean Fleaur,4650
+50,Matthew Weiss,Winston Taylor,4800
+50,Matthew Weiss,Steven Markle,3300
+50,Matthew Weiss,James Landry,3600
+50,Matthew Weiss,Irene Mikkilineni,4050
+50,Matthew Weiss,Julia Nayer,4800
+50,Adam Fripp,Anthony Cabrio,4500
+50,Adam Fripp,Julia Dellinger,5100
+50,Adam Fripp,Alexis Bull,6150
+50,Adam Fripp,Nandita Sarchand,6300
+50,Adam Fripp,TJ Olson,3150
+50,Adam Fripp,James Marlow,3750
+50,Adam Fripp,Mozhe Atkinson,4200
+50,Adam Fripp,Laura Bissot,4950
+50,Payam Kaufling,Randall Perkins,3750
+50,Payam Kaufling,Timothy Gates,4350
+50,Payam Kaufling,Jennifer Dilly,5400
+50,Payam Kaufling,Kelly Chung,5700
+50,Payam Kaufling,Hazel Philtanker,3300
+50,Payam Kaufling,Ki Gee,3600
+50,Payam Kaufling,Michael Rogers,4350
+50,Payam Kaufling,Jason Mallin,4950
+50,Shanta Vollman,Vance Jones,4200
+50,Shanta Vollman,Samuel McCain,4800
+50,Shanta Vollman,Britney Everett,5850
+50,Shanta Vollman,Sarah Bell,6000
+50,Shanta Vollman,Joshua Patel,3750
+50,Shanta Vollman,John Seo,4050
+50,Shanta Vollman,Stephen Stiles,4800
+50,Shanta Vollman,Renske Ladwig,5400
+50,Kevin Mourgos,Douglas Grant,3900
+50,Kevin Mourgos,Donald OConnell,3900
+50,Kevin Mourgos,Kevin Feeney,4500
+50,Kevin Mourgos,Alana Walsh,4650
+50,Kevin Mourgos,Peter Vargas,3750
+50,Kevin Mourgos,Randall Matos,3900
+50,Kevin Mourgos,Curtis Davies,4650
+50,Kevin Mourgos,Trenna Rajs,5250
+----------------------------,-------------------------------,--------------------------,----------
+ ,Total Salary of 50 is : , 175800
+----------------------------,-------------------------------,---------------------------,-----------------
+80,Eleni Zlotkey,Ellen Abel,11000
+80,Eleni Zlotkey,Alyssa Hutton,8800
+80,Eleni Zlotkey,Jonathon Taylor,8600
+80,Eleni Zlotkey,Jack Livingston,8400
+80,Eleni Zlotkey,Kimberely Grant,7000
+80,Eleni Zlotkey,Charles Johnson,6200
+80,John Russell,Oliver Tuvault,7000
+80,John Russell,Nanette Cambrault,7500
+80,John Russell,Christopher Olsen,8000
+80,John Russell,Peter Hall,9000
+80,John Russell,David Bernstein,9500
+80,John Russell,Peter Tucker,10000
+80,Karen Partners,Sarath Sewall,7000
+80,Karen Partners,Louise Doran,7500
+80,Karen Partners,Lindsey Smith,8000
+80,Karen Partners,Allan McEwen,9000
+80,Karen Partners,Patrick Sully,9500
+80,Karen Partners,Janette King,10000
+80,Alberto Errazuriz,Sundar Ande,6400
+80,Alberto Errazuriz,David Lee,6800
+80,Alberto Errazuriz,Mattea Marvins,7200
+80,Alberto Errazuriz,Danielle Greene,9500
+80,Alberto Errazuriz,Clara Vishney,10500
+80,Gerald Cambrault,Sundita Kumar,6100
+80,Gerald Cambrault,Elizabeth Bates,7300
+80,Gerald Cambrault,William Smith,7400
+80,Gerald Cambrault,Tayler Fox,9600
+80,Gerald Cambrault,Harrison Bloom,10000
+80,Gerald Cambrault,Lisa Ozer,11500
+----------------------------,-------------------------------,--------------------------,----------
+ ,Total Salary of 80 is : , 244300
+----------------------------,-------------------------------,---------------------------,-----------------
+----------------------------,-------------------------------,--------------------------,----------
+ ,Total Salary of 90 is : , 0
+----------------------------,-------------------------------,---------------------------,-----------------
+100,Nancy Greenberg,John Chen,8200
+100,Nancy Greenberg,Ismael Sciarra,8470
+100,Nancy Greenberg,Jose Manuel Urman,8580
+100,Nancy Greenberg,Luis Popp,7590
+----------------------------,-------------------------------,--------------------------,----------
+ ,Total Salary of 100 is : , 32840
+----------------------------,-------------------------------,---------------------------,-----------------

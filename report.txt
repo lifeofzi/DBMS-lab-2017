@@ -1,0 +1,9 @@
+Department ID 	 Department Name 	 Salary
+100	Finance	55048
+50	Shipping	249685
+30	Purchasing	63041
+90	Executive	10023
+110	Accounting	20308
+20	Marketing	22591
+60	IT	19800
+80	Sales	325245
